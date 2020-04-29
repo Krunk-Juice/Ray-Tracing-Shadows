@@ -13,7 +13,7 @@ Blinn-Phong Shader with shadows and light intensity
 
 'make all' => spheres, triangles, and teapot
 
-## ScreenShots
+## Screenshots
 
 <img src="screenshots/scene_2spheres_ortho_flat.png" width="300em" /> <img src="screenshots/scene_2spheres_ortho_phong.png" width="300em"  />
 
