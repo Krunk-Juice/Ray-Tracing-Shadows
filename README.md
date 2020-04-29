@@ -1,5 +1,6 @@
-# project-3-starter
-Project 3: raytracer with shadows
+# Project 3: Raytracer with Shadows
+
+Graduate Project for CPSC 484
 
 Group members:
 
