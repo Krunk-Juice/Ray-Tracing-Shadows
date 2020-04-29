@@ -10,9 +10,9 @@ Flat shader with shadows
 
 Blinn-Phong Shader with shadows and light intensity
 
-'make' => spheres and triangles
+'make' → spheres and triangles
 
-'make all' => spheres, triangles, and teapot
+'make all' → spheres, triangles, and teapot
 
 ## Screenshots
 
