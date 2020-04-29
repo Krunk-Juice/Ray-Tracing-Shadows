@@ -12,3 +12,15 @@ Blinn-Phong Shader with shadows and light intensity
 'make' => spheres and triangles
 
 'make all' => spheres, triangles, and teapot
+
+## ScreenShots
+
+<img src="screenshots/scene_2spheres_ortho_flat.png" width="300em" /> <img src="screenshots/scene_2spheres_ortho_phong.png" width="300em"  />
+
+<img src="screenshots/scene_2spheres_persp_flat.png" width="300em" /> <img src="screenshots/scene_2spheres_persp_phong.png" width="300em"  />
+
+<img src="screenshots/scene_gtri_ortho_flat.png" width="300em" /> <img src="screenshots/scene_gtri_ortho_phong.png" width="300em"  />
+
+<img src="screenshots/scene_gtri_persp_flat.png" width="300em" /> <img src="screenshots/scene_gtri_persp_phong.png" width="300em"  />
+
+<img src="screenshots/teatime.png" width="300em" />
