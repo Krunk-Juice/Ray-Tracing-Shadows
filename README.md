@@ -26,5 +26,5 @@ Blinn-Phong Shader with shadows and light intensity
 
 <img src="screenshots/teatime.png" width="300em" />
 
-Majority of the base code is property of Dr. Kevin Wortman.
+🟥 Majority of the base code is property of Dr. Kevin Wortman.
 https://github.com/kevinwortman
