@@ -25,3 +25,6 @@ Blinn-Phong Shader with shadows and light intensity
 <img src="screenshots/scene_gtri_persp_flat.png" width="300em" /> <img src="screenshots/scene_gtri_persp_phong.png" width="300em"  />
 
 <img src="screenshots/teatime.png" width="300em" />
+
+Majority of the base code is property of Dr. Kevin Wortman.
+https://github.com/kevinwortman
